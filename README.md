@@ -1,3 +1,3 @@
 # particalweng
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/particalweng)
+[See Here](https://particalweng.stackblitz.io/)
